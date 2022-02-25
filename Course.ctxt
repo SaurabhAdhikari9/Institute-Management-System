@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Course
+comment0.text=\ \r\nCourse\ class\ is\ a\ superclass\ that\ takes\ information\ from\ parameter\ and\ setter/mutator\ method\ and\ displays\ the\ output\ after\ applying\ certain\ conditions.\r\n\ @author\ Saurabh\ Adhikari\r\n\ @version\ CW.0.1\r\n
+comment1.params=course_ID\ course_name\ duration
+comment1.target=Course(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Course,\ that\ initialize\ the\ value.\r\n\ @param\ course_ID\ an\ unique\ id\ that\ reflect\ Course.\r\n\ @param\ course_name\ Name\ of\ the\ Course.\r\n\ @param\ duration\ how\ long\ does\ the\ course\ go.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCourseID()
+comment2.text=\r\n\ Encapsulated\ getter\ method\ is\ created\ to\ get\ value\ of\ courseID.\r\n\ @return\ the\ value\ of\ courseID.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getCourseName()
+comment3.text=\r\n\ Encapsulated\ getter\ method\ is\ created\ to\ get\ value\ of\ course_name.\r\n\ @return\ the\ value\ od\ CourseName.\r\n
+comment4.params=
+comment4.target=int\ getDuration()
+comment4.text=\r\n\ Encapsulated\ getter\ method\ is\ created\ to\ get\ value\ of\ duration.\r\n\ @return\ Duration.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getCourseLeader()
+comment5.text=\r\n\ Encapsulated\ getter\ method\ is\ created\ to\ get\ value\ of\ courseLeader.\r\n\ @return\ courseLeader.\r\n
+comment6.params=newcourseLeader
+comment6.target=void\ setCourseLeader(java.lang.String)
+comment6.text=\r\n\ Encapsulated\ setter\ method\ is\ created\ to\ assign\ the\ value\ of\ courseLeader.\r\n\ @param\ newcourseLeader\ set\ the\ new\ value\ to\ the\ course\ leader.\r\n
+comment7.params=
+comment7.target=void\ display()
+comment7.text=\r\n\ display\ method\ is\ created\ to\ display\ the\ value.\r\n
+numComments=8
