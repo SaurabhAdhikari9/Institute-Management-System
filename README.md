@@ -6,6 +6,12 @@ Java programming language was chosen for building the system. Java gives the fea
 * Java awt package
 
 **System Features:**
+* Student registration on the basics of the type of courses, i.e. Academic course and Non-Academic course,
+* Students can enroll in the courses in their area of interest,
+* Admin has the right to add new courses to their institute,
+* Admin has the right to remove the course from their institute,
+* Admin can observe the course record.
+
 
 
 ![image](https://user-images.githubusercontent.com/83704793/155672873-aa644a00-72de-4af9-bc8e-beadf811295f.png)
