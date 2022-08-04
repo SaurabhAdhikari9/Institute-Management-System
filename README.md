@@ -1,13 +1,12 @@
-# Institute-Management-System-java-
+# Institute-Management-System-java
 An Institute Management System was built to manage the institute regarding courses, students, tutor or lecturer, durations, etc. 
 Java programming language was chosen for building the system. Java gives the features of the OOP (Object-Oriented Programming) language and gives lots of packages that are used to develop the system. A few of them are: 
 * Java util package
 * Java swing package
 * Java awt package
 
-**System Features:** 
-Institute Management System was built in the java programming language. While building the institute management system, we have to import frameworks like swing, awt. 
-Where a student can enroll in their academic and non-academic modules. 
+**System Features:**
+
 
 ![image](https://user-images.githubusercontent.com/83704793/155672873-aa644a00-72de-4af9-bc8e-beadf811295f.png)
 
